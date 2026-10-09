@@ -2,19 +2,20 @@
 
 approvers:
 - qu1queee
-- adambkaplan
 - SaschaSchwarze0
 - HeavyWombat
+- IrvingMg
 
 reviewers:
 - qu1queee
 - SaschaSchwarze0
-- adambkaplan
 - HeavyWombat
 - rxinui
-- hasanawad94
+- kaizakin
+- IrvingMg
 
 emeritus_approvers:
+- adambkaplan # 2026-06-17
 - alicerum #2022-08-15
 - gabemontero # 2022-08-15
 - sbose78 # 2022-08-15
@@ -25,3 +26,4 @@ emeritus_reviewers:
 - otaviof # 2024-05-24
 - coreydaley # 2024-05-24
 - ImJasonH
+- hasanawad94 # 2026-08-09
